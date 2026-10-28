@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -198,3 +199,5 @@ const PRODUCTS = [
  {name:"Smart Fitness Band",category:"Gadgets & Electronics",price:null,moq:"10 pcs",description:"Step, heart rate and sleep tracking.",image:"",emoji:"⌚"},
  {name:"Steel Water Bottle 750ml",category:"Bottles & Tumblers",price:149,moq:"24 pcs",description:"Single-wall stainless steel bottle.",image:"",emoji:"🍶"},
  {name:"Insulated Tumbler 500ml",category:"Bottles & Tumblers",price:299,moq:"12 pcs",description:"Keeps drinks hot or cold for hours.",image:"",
+ 
+<!DOCTYPE html>
